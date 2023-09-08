@@ -23,5 +23,5 @@ Cuando los números elegidos por el jugador no coinciden con la combinación de 
 
 ## Video demostrativo
 
-![video](https://github.com/itkore/tragamonedas/blob/main/BlockChain.mp4)
+https://github.com/itkore/tragamonedas/blob/main/BlockChain
 
